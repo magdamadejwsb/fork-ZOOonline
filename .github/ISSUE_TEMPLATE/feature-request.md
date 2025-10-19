@@ -3,7 +3,7 @@ name: Zgłoszenie zmiany/nowa funkcja
 about: Zgłoś nową funkcję na stronie ZOO online
 title: [FEATURE] Krótki opis zmiany
 label: enhancement
-assignees: ''
+assignees: ' '
 ---
 
 **Opis funkcji**
